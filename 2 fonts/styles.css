@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: rgb(162, 152, 152);
+  font-family: "Press Start 2P";
+}
+
+p {
+  color: #00ff73;
+  font-family: sans-serif;
+  font-style: italic;
+  font-size: 2em;
+  text-decoration: cyan wavy underline;
+  font-weight: 400;
+}
