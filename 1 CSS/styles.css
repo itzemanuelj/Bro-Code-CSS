@@ -1,0 +1,14 @@
+p {
+  background-color: grey;
+}
+#p1 {
+  color: tomato;
+}
+
+.even {
+  color: green;
+}
+
+.odd {
+  color: orange;
+}
