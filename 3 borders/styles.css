@@ -1,0 +1,11 @@
+.border1 {
+  border-style: double;
+  border-color: gold;
+  padding: 0.5em 0.5em 0.5em;
+}
+.border2 {
+  border-style: dashed;
+  border-width: 5px;
+  border-color: blueviolet;
+  border-radius: 3px;
+}
