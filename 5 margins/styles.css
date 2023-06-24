@@ -1,0 +1,20 @@
+body {
+  border: solid 2px whitesmoke;
+}
+#box1 {
+  margin: 10%;
+  border: 5px solid red;
+  width: 250px;
+  height: 250px;
+  font-size: 22px;
+  background: blue;
+}
+
+#box2 {
+  margin: 10%;
+  border: 5px solid blue;
+  width: 250px;
+  height: 250px;
+  font-size: 22px;
+  background: red;
+}
